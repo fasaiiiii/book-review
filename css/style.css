@@ -1,0 +1,47 @@
+navbar{
+    border-style:solid ;
+    border-color: blanchedalmond;
+}
+
+
+
+
+  h2{
+    color: grey;
+  }
+  
+body {
+    background-color: darkgray;
+  }
+
+  .chakra-petch-light {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .chakra-petch-regular {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+  // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.noto-sans-thai {
+  font-family: "Noto Sans Thai", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+img{
+  border-style: solid;
+  border-color: aliceblue;
+  border-width: 10px;
+  margin: 8px;
+}
